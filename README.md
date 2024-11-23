@@ -37,7 +37,7 @@
 
 ###
 
-<br clear="both">
+<br clear="left">
 
 <img src="https://raw.githubusercontent.com/marujodudu/marujodudu/output/snake.svg" alt="Snake animation" />
 
