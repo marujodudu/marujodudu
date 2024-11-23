@@ -12,6 +12,7 @@
 <img align="right" height="150" src="https://cdn.dribbble.com/users/55336/screenshots/656908/media/73aa26fcfdafa6b547de6546e8d17902.gif"  />
 
 ###
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -39,6 +40,7 @@
 </div>
 
 ###
+<br clear="both">
 
 <div align="left">
   <a href="https://instagram.com/seuusuario" target="_blank">
