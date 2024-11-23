@@ -1,4 +1,4 @@
-<h2 align="left">Hii! My name is Maria and I'm a student of Systems Analysis and Development</h2>
+<h3 align="center">Hii! My name is Maria and I'm a student of Systems Analysis and Development</h3>
 
 ###
 
