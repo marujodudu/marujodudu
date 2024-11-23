@@ -39,7 +39,7 @@
 </div>
 
 ###
-<br clear="both">
+<br>
 
 <div align="left">
   <a href="https://instagram.com/seuusuario" target="_blank">
