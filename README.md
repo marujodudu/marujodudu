@@ -9,12 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.dribbble.com/users/55336/screenshots/656908/media/73aa26fcfdafa6b547de6546e8d17902.gif"  />
-<br></br>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
@@ -42,7 +37,7 @@
 ###
 <br>
 
-<div align="left">
+<div align="center">
   <a href="https://instagram.com/seuusuario" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
 </a>
