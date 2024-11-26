@@ -54,6 +54,10 @@
 
 ###
 
+<img align="center" height="150" src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif"  />
+<br></br>
+
+###
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/marujodudu/marujodudu/output/snake.svg" alt="Snake animation" />
