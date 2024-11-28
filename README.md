@@ -48,6 +48,8 @@ Me chamo Maria Eduarda Guimarães, tenho 19 anos e sou do Amazonas. Atualmente, 
   <img width="12" />
 </div>
 
+---
+
 ### 📊 Estatísticas
 
 <div align="left">
@@ -57,5 +59,4 @@ Me chamo Maria Eduarda Guimarães, tenho 19 anos e sou do Amazonas. Atualmente, 
 
 ---
 
-<br clear="both">
 <img src="https://raw.githubusercontent.com/marujodudu/marujodudu/output/snake.svg" alt="Snake animation" />
