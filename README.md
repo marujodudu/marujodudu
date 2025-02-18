@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-end`**
 
-Me chamo Maria Eduarda Guimarães, tenho 19 anos e sou do Amazonas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas 4/5 na Faculdade de Tecnologia do Senac/AM.
+Me chamo Maria Eduarda Guimarães, tenho 20 anos e sou do Amazonas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas 5/5 na Faculdade de Tecnologia do Senac/AM.
 
 <div align="left">
   <a href="https://instagram.com/dudadevv" target="_blank">
